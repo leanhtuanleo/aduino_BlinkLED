@@ -1,2 +1,14 @@
-# aduino_BlinkLED
-# Arduino LED Blink  Simple project using Arduino to blink an LED.  - LED connected to pin 13 - Blinks every 1 second
+# Arduino LED Blink
+
+This project demonstrates how to blink an LED using Arduino.
+
+## Components
+- Arduino Uno
+- LED
+- Resistor (220Ω)
+
+## Circuit
+LED connected to pin 13 through a resistor.
+
+## Behavior
+LED turns on for 1 second, then off for 1 second repeatedly.
