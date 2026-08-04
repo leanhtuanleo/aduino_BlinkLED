@@ -8,7 +8,7 @@ This project demonstrates how to blink an LED using Arduino.
 - Resistor (220Ω)
 
 ## Circuit
-LED connected to pin 13 through a resistor.
+LED connected to pin 11 through a resistor.
 
 ## Behavior
 LED turns on for 1 second, then off for 1 second repeatedly.
